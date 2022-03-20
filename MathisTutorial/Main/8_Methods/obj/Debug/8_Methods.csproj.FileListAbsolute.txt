@@ -1,0 +1,5 @@
+D:\MathisProject\1_HelloWorld\8_Methods\bin\Debug\8_Methods.exe.config
+D:\MathisProject\1_HelloWorld\8_Methods\bin\Debug\8_Methods.exe
+D:\MathisProject\1_HelloWorld\8_Methods\bin\Debug\8_Methods.pdb
+D:\MathisProject\1_HelloWorld\8_Methods\obj\Debug\8_Methods.exe
+D:\MathisProject\1_HelloWorld\8_Methods\obj\Debug\8_Methods.pdb

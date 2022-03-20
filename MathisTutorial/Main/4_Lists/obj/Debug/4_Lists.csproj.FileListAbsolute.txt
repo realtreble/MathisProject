@@ -1,0 +1,5 @@
+D:\MathisProject\1_HelloWorld\4_Lists\bin\Debug\4_Lists.exe.config
+D:\MathisProject\1_HelloWorld\4_Lists\bin\Debug\4_Lists.exe
+D:\MathisProject\1_HelloWorld\4_Lists\bin\Debug\4_Lists.pdb
+D:\MathisProject\1_HelloWorld\4_Lists\obj\Debug\4_Lists.exe
+D:\MathisProject\1_HelloWorld\4_Lists\obj\Debug\4_Lists.pdb

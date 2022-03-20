@@ -1,0 +1,5 @@
+D:\MathisProject\1_HelloWorld\3_Arrays\bin\Debug\3_Arrays.exe.config
+D:\MathisProject\1_HelloWorld\3_Arrays\bin\Debug\3_Arrays.exe
+D:\MathisProject\1_HelloWorld\3_Arrays\bin\Debug\3_Arrays.pdb
+D:\MathisProject\1_HelloWorld\3_Arrays\obj\Debug\3_Arrays.exe
+D:\MathisProject\1_HelloWorld\3_Arrays\obj\Debug\3_Arrays.pdb
