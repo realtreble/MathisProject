@@ -1,0 +1,6 @@
+D:\MathisProject\1_HelloWorld\5_Strings\bin\Debug\5_Strings.exe.config
+D:\MathisProject\1_HelloWorld\5_Strings\bin\Debug\5_Strings.exe
+D:\MathisProject\1_HelloWorld\5_Strings\bin\Debug\5_Strings.pdb
+D:\MathisProject\1_HelloWorld\5_Strings\obj\Debug\5_Strings.csprojResolveAssemblyReference.cache
+D:\MathisProject\1_HelloWorld\5_Strings\obj\Debug\5_Strings.exe
+D:\MathisProject\1_HelloWorld\5_Strings\obj\Debug\5_Strings.pdb

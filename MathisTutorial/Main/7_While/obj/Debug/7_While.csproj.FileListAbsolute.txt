@@ -1,0 +1,5 @@
+D:\MathisProject\1_HelloWorld\7_While\bin\Debug\7_While.exe.config
+D:\MathisProject\1_HelloWorld\7_While\bin\Debug\7_While.exe
+D:\MathisProject\1_HelloWorld\7_While\bin\Debug\7_While.pdb
+D:\MathisProject\1_HelloWorld\7_While\obj\Debug\7_While.exe
+D:\MathisProject\1_HelloWorld\7_While\obj\Debug\7_While.pdb

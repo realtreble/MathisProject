@@ -1,0 +1,8 @@
+D:\MathisProject\1_HelloWorld\6_For\bin\Debug\6_For.exe.config
+D:\MathisProject\1_HelloWorld\6_For\bin\Debug\6_For.exe
+D:\MathisProject\1_HelloWorld\6_For\bin\Debug\6_For.pdb
+D:\MathisProject\1_HelloWorld\6_For\obj\Debug\6_For.exe
+D:\MathisProject\1_HelloWorld\6_For\obj\Debug\6_For.pdb
+D:\MathisProject\6_For\bin\Debug\6_For.exe.config
+D:\MathisProject\6_For\obj\Debug\6_For.exe
+D:\MathisProject\6_For\obj\Debug\6_For.pdb
